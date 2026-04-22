@@ -1,0 +1,1 @@
+sh scripts/test.sh -g 8 -d scannet -c semseg-doremi-ft -n doremi_ft
