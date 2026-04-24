@@ -1,7 +1,7 @@
 # DoReMi: Bridging 3D Domains via Topology-Aware Domain-Representation Mixture of Experts
 
  
-[![Project](https://img.shields.io/badge/Project-Website-pink)]()
+[![Project](https://img.shields.io/badge/Project-Website-pink)](https://xmw666.github.io/doremi_proj/)
 [![arXiv](https://img.shields.io/badge/arXiv-2511.11232-b31b1b.svg)](https://arxiv.org/abs/2511.11232)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Model-yellow)](https://huggingface.co/koun123/DoReMi/tree/main)
 
